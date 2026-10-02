@@ -3,6 +3,7 @@
 #include <locale.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
+//teste1
 
 //NÚMERO DO VISITANTE
 int num_visitante = 0;
